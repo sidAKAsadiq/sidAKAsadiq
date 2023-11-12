@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **sadiqdude3@gmail.com**
 
-- ⚡ Fun fact **I am exploring Android development as of now**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad sadiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad sadiq" height="30" width="40" /></a>
