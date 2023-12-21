@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sidAKAsadiq](https://github.com/sidAKAsadiq)
 
-- 📫 How to reach me **sadiqdude3@gmail.com**
+- 📫 How to reach me **muhammadsadiqrajani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
