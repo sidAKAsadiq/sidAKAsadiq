@@ -2,7 +2,21 @@
 
 ###
 
-<p align="left">"A highly adaptable individual to constantly changing technologies and work environment."<br><br>Greetings, I am Muhammad Sadiq, a student at FAST NUCES Karachi, pursuing a Bachelor's degree in Computer Science. My current CGPA stands at an impressive 3.8. <br><br>Throughout my academic journey at FAST, I have developed a strong grasp of programming fundamentals,  Object-Oriented Programming (OOP), Data Structures and Database etc.<br><br>I have built several projects using modern technology and AI which helped me to develop a problem-solving mindset and increase my familiarity with various tech tools and stacks.<br><br><strong>Portfolio</strong>: https://tinyurl.com/sidAKAsadiq<br><br>Following are a few of them that I'd like you to have a look at:<br><strong>Enviro: Waste and Recycling Solution</strong>  | Next.js, PostgreSQL, Gemini API, Cloudinary | https://shorturl.at/F0NBS <br><strong>WriteAboutMe.Ai</strong> | Node.js, Express.js, React, Mongodb, Gemini API | https://shorturl.at/RlMNr |<br><strong>TweetANDTube</strong> | Node.js, Express.js, Mongodb, Postman, Cloudinary, Gemini API |  https://shorturl.at/iSHTt |<br><strong>Baithak Lagao!</strong> | Django, SQLite, HTML, CSS, JavaScript | https://shorturl.at/OFukr |</p>
+<p align="left">
+"A highly adaptable individual to constantly changing technologies and work environments."
+<br><br>
+
+Greetings, I am Muhammad Sadiq a Backend-focused Software Developer and a final-year CS student at FAST NUCES Karachi with a CGPA of 3.8. 
+<br><br>
+
+Throughout my time at FAST, I’ve built a strong foundation in programming fundamentals, Object-Oriented Programming (OOP), Data Structures, and Databases, which naturally led me toward backend engineering.
+<br><br>
+
+I’ve developed multiple real-world projects using modern technologies such as Node.js, Express.js, TypeScript, PostgreSQL, MongoDB, and Redis. These projects strengthened my understanding of API design, authentication, database modeling, caching, performance optimization, and scalable system architecture.
+<br><br>
+
+My work reflects a problem-solving mindset, an engineering-driven approach, and a growing familiarity with modern backend tools, patterns, and technologies.
+</p><br><br><strong>Portfolio</strong>: https://tinyurl.com/sidAKAsadiq<br><br>Following are a few of them that I'd like you to have a look at:<br><strong>Scale-inv: Scalable Backend for Multi-Store Operations</strong>  | Express.js, Redis, PM2, Sequalize | https://tinyurl.com/ykxf9p6a <br><strong>Enviro: Waste and Recycling Solution</strong>  | Next.js, PostgreSQL, Gemini API, Cloudinary | https://tinyurl.com/47aupwhy <br><strong>WriteAboutMe.Ai</strong> | Node.js, Express.js, React, Mongodb, Gemini API | https://tinyurl.com/ytnfps5x |<br><strong>TweetANDTube</strong> | Node.js, Express.js, Mongodb, Postman, Cloudinary, Gemini API | https://tinyurl.com/yz25773p |<br><strong>Baithak Lagao!</strong> | Django, SQLite, HTML, CSS, JavaScript | https://tinyurl.com/47aupwhy |</p>
 
 ###
 
